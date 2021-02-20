@@ -4,7 +4,8 @@
     min-height: 64px;
 }
 .mat-toolbar{
-    background-color: white;
+    background-color: aliceblue;
+    justify-content: space-between;
 }
 
 .header a {
