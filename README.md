@@ -2,7 +2,7 @@
 Aplicação CRUD usando o Angular CLI
 
 #### Objetivo
-O objetivo do projeto é ampliar meus conhecimentos em Angular-CLI. Desenvolvendo uma aplicação com as funções de deletar, adicionar, editar e consultar dados. O famoso CRUD.
+O objetivo do projeto é ampliar meus conhecimentos em Angular-CLI. Desenvolvendo uma aplicação com as funções de Create, read, Update e Delete, o famoso CRUD.
 
 
 
@@ -34,7 +34,13 @@ O objetivo do projeto é ampliar meus conhecimentos em Angular-CLI. Desenvolvend
 
 - No seu terminal, rode o comando git clone url do meu repositório;
 
-- Abra o arquivo "index.html" no seu navegador preferido;
+- Abra a pasta com seu editor de código preferido;
+
+- Rode o comando no terminal `npm install` para instalar as dependências;
+
+- Após execute o comando `ng serve` ou `ng s`;
+
+- Abra o seu navegador preferido e entre na url `http://localhost:4200/`;
 
 - Veja o resultado !
 
