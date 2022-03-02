@@ -1,6 +1,8 @@
 # CRUD-Angular-CLI
 Aplicação CRUD usando o Angular CLI
 
+![GitHub](https://img.shields.io/github/license/Ivan-Vidal/CRUD-Angular-CLI)
+
 #### Objetivo
 O objetivo do projeto é ampliar meus conhecimentos em Angular-CLI. Desenvolvendo uma aplicação com as funções de Create, Read, Update e Delete, o famoso CRUD.
 
