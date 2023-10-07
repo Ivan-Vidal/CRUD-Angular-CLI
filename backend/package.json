@@ -4,12 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --poret 3001"
+    "start": "json-server --watch db.json --poret 3001",
+    "lint": "npx eslint ."
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.7.4",
+    "@typescript-eslint/parser": "^6.7.4",
+    "eslint": "^8.51.0",
+    "typescript": "^5.2.2"
   }
 }
